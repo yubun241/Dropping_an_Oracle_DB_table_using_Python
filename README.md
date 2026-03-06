@@ -1,2 +1,2 @@
-# Dropping-an-Oracle-DB-table-using-Python
+## Dropping_an_Oracle_DB_table_using_Python
 pythonを使ってOracleのDataBaseをドロップするコード
